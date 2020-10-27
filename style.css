@@ -1,0 +1,98 @@
+.mylogo {
+  color: green;
+  font-size: 16px !important;
+  margin-top: 3px;
+}
+.mainPageBody {
+  color: aliceblue;
+  justify-content: center;
+  font-size: 16px;
+}
+.shopBtn {
+  width: 20%;
+  align-self: center;
+  margin-top: 30px;
+  background: rgb(241, 241, 241) !important;
+  color: green !important;
+  border-radius: 20px !important;
+  -webkit-border-radius: 20px !important;
+  -moz-border-radius: 20px !important;
+  -ms-border-radius: 20px !important;
+  -o-border-radius: 20px !important;
+}
+p {
+  font-size: 13px;
+}
+.sendMail {
+  color: white;
+}
+.whyUsblock {
+  margin-top: 100px;
+}
+.aboutUsImg {
+  width: 350px;
+  position: absolute;
+  padding-top: 50px;
+}
+.myCard {
+  margin-top: 60px;
+  position: absolute;
+  margin-left: 200px;
+}
+section h1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 2;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font: normal 300 64px/1 "Josefin Sans", sans-serif;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.mainBackgound {
+  background: rgb(34, 143, 195);
+  background: linear-gradient(
+    90deg,
+    rgba(34, 143, 195, 1) 0%,
+    rgba(140, 253, 45, 1) 100%
+  );
+}
+.watchWid {
+  width: 100%;
+  padding-bottom: 40px;
+  background: rgb(34, 143, 195);
+  background: linear-gradient(
+    90deg,
+    rgba(34, 143, 195, 1) 0%,
+    rgba(140, 253, 45, 1) 100%
+  );
+}
+.VideoWatchTitle {
+  color: white;
+}
+.orderBtn {
+  background-color: transparent;
+  border-color: green;
+  border-radius: 20px;
+  border: 12px !important;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+.fotter {
+  padding-bottom: 30px;
+  width: 100%;
+  background: rgb(82, 82, 82);
+}
+.fotterTitle {
+  padding-top: 100px;
+  padding-bottom: 40px;
+  color: #fff;
+}
+.feedbackSlider {
+  widows: 100px !important ;
+}
